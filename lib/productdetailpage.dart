@@ -15,7 +15,7 @@ class _Productdetailpage extends State<Productdetailpage> {
       'status':false,
       'answer':'.The coupon code SUMMER20 is valid only for purchases made through the Store.'
           '\n.The discount is applicable only to items listed under the summer fashion collection.'
-          '\n .This offer cannot be combined with any other promotions or discounts.'
+          '\n .This offer cannot be combined with any other promotions or discounts123.'
     }
 
   ];
@@ -80,7 +80,7 @@ class _Productdetailpage extends State<Productdetailpage> {
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Website',style:TextStyle(color:Color(0XFF757575),fontSize:12,fontWeight:FontWeight.w400),),
+                        Text('Website123-',style:TextStyle(color:Color(0XFF757575),fontSize:12,fontWeight:FontWeight.w400),),
                         Text('Glamouressentials.com',style:TextStyle(fontSize:14,fontWeight:FontWeight.w600),),
                       ],
                     ),
