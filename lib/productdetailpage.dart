@@ -80,7 +80,7 @@ class _Productdetailpage extends State<Productdetailpage> {
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Website123-',style:TextStyle(color:Color(0XFF757575),fontSize:12,fontWeight:FontWeight.w400),),
+                        Text('Website-',style:TextStyle(color:Color(0XFF757575),fontSize:12,fontWeight:FontWeight.w400),),
                         Text('Glamouressentials.com',style:TextStyle(fontSize:14,fontWeight:FontWeight.w600),),
                       ],
                     ),
